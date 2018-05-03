@@ -1,4 +1,4 @@
-# Koopman Model predictive control
+# Koopman model predictive control
 
 This repository contains the Matlab codes for the paper "Linear predictors for nonlinear dynamical systems: Koopman operator meets model predictive control", Automatica 2018, by Milan Korda and Igor Mezic.
 
