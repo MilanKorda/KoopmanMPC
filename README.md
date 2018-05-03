@@ -1,1 +1,2 @@
 # KoopmanMPC
+# Koopman-spectrum
