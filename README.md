@@ -4,4 +4,4 @@ This repository contains the Matlab codes for the paper "Linear predictors for n
 
 Preprint: https://arxiv.org/pdf/1611.03537.pdf
 
-To run the code, the qpOASES solver (also contained in the zip file) must be installed. In order to do so, run the Matlab script make.m in ./Resources/qpOASES-3.1.0/interfaces/matlab
+To run the code, the qpOASES solver (also contained in the zip file) must be installed. In order to do so, run the Matlab script make.m in ./Resources/qpOASES-3.1.0/interfaces/matlab# Koopman-spectrum
